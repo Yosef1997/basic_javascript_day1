@@ -1,0 +1,25 @@
+1. Mencari nilai terbesar:
+- start
+- melakukan input data 
+- memeriksa data yang diinput bertipe array
+- jika true lanjut ke tahapan selanjutnya, bila tidak kembali ke tahap input data
+- data array kemudian diurutkan dari terkecil ke terbesar dengan method sort()
+- console.log(data array[-1])
+- end
+2. Mencari urutan nilai terbesar: 
+- start
+- melakukan input data 
+- memeriksa data yang diinput bertipe array
+- jika true lanjut ke tahapan selanjutnya, bila tidak kembali ke tahap input data
+- data array kemudian diurutkan dari terkecil ke terbesar dengan method sort()
+- end
+3. Mencari deret angka yang sama antar 2 array
+- start
+- melakukan input data array sebanyak 2 kali berikan data integer
+- membuat variabel results berupa array kosong
+- memeriksa data yang diinput bertipe array
+- jika true lanjut ke tahapan selanjutnya, bila tidak kembali ke tahap input data
+- melakukan nested loop dimana dalam iterasi data array pertama terdapat iterasi data array kemudian
+- dalam iterasi data array kedua dibuat sebuah kondisi jika array1[i]===array[j] maka result.push[array[i]], bila tidak ada maka result=[]
+- console.log9results
+- end 
